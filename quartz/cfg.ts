@@ -82,7 +82,7 @@ export interface GlobalConfiguration {
   /** Base URL to use for CNAME files, sitemaps, and RSS feeds that require an absolute URL.
    *   Quartz will avoid using this as much as possible and use relative URLs most of the time
    */
-  baseUrl?: "archimorris.github.io/Lore_and_such"
+  baseUrl?: "archimorris.github.io/Lore_and_such/Lore_and_such"
   theme: Theme
   /**
    * Allow to translate the date in the language of your choice.
