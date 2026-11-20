@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Лор и прочее
+  pageTitle: Лор
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -176,8 +176,6 @@ plugins:
       group: toolbar
   - source: "@quartz-community/breadcrumbs"
     enabled: true
-    options:
-      rootName: Главная
     layout:
       position: beforeBody
       priority: 5
