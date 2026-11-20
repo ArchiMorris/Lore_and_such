@@ -8,7 +8,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: archimorris.github.io/Lore_and_such
   ignorePatterns:
     - private
     - templates
