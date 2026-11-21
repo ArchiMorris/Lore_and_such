@@ -8,7 +8,7 @@ footer ul {
   margin-top: 2rem !important;
 }
 @media (max-width: 800px) {
-  .explorer .explorer-content {
+  .explorer.collapsed .explorer-content {
     transition: none;
   }
 }
