@@ -2,9 +2,9 @@
 configuration:
   pageTitle: Саркофаг
   pageTitleSuffix: ""
-  enableSPA: true
+  enableSPA: false
   enablePopovers: true
-  prefetch: viewport
+  prefetch: off
   analytics:
     provider: plausible
   locale: ru-RU
