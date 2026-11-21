@@ -7,3 +7,8 @@ footer p {
 footer ul {
   margin-top: 2rem !important;
 }
+@media (max-width: 800px) {
+  .explorer .explorer-content {
+    transition: none;
+  }
+}
