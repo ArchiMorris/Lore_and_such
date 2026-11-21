@@ -2,7 +2,7 @@
 configuration:
   pageTitle: Саркофаг
   pageTitleSuffix: ""
-  enableSPA: false
+  enableSPA: true
   enablePopovers: true
   prefetch: off
   analytics:
